@@ -1,1 +1,4 @@
-
+.layout{
+    justify-content: space-between;
+    overflow: auto;
+}
